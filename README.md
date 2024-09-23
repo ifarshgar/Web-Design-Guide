@@ -1,6 +1,6 @@
 # Web-Design-Guide
 
-A good designer creates an immediate and lasting good impression of the branch and or the product.
+A good designer creates an immediate and lasting impression of the product.
 
 Ensure the user's perceived value of the brand or prodcut.
 
