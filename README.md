@@ -2,7 +2,7 @@
 
 A good designer: 
 -  Creates an immediate and lasting impression of the product.
-- Ensure the user's perceived value of the brand or prodcut.
+- Ensures the user's perceived value of the brand or prodcut.
 - Gives the user exactly what they were looking for.
 
 ## Things to pay attention to in a design
