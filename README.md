@@ -23,7 +23,7 @@ A good designer:
 - Serious / Elegant - For luxury and elegance - Thin serif typefaces - Golden or pastel colors - Big and high quality images.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.34.31.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.34.31.png" height="600px" />
 
 - Minimalist / Simple - Focusses on the essential text content - Small or medium-sized sans-serif - black text and lines - Few images and icons.
   <br />
