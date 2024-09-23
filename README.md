@@ -28,32 +28,32 @@ A good designer:
 - Minimalist / Simple - Focusses on the essential text content - Small or medium-sized sans-serif - black text and lines - Few images and icons.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.34.44.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.34.44.png" height="600px" />
 
 - Plain / Neutral - Design that gets out of the way - Neutral and small typefaces - Very structured layout. - Common in big corporations.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.34.59.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.34.59.png" height="600px" />
 
 - Bold / Confident - Makes an impact - Big and bold typography - Confident use of big and bright colored blocks.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.35.15.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.35.15.png" height="600px" />
 
 - Calm / Peaceful - For products and services that care - soft serif headings - calming pastel colors - matching images/illustrations
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.35.31.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.35.31.png" height="600px" />
 
 - Startup / Upbeat - Widely used in startups - Medium sized serif typefaces - light-grey text and backgrounds - rounded elements.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 20.37.17.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 20.37.17.png" height="600px" />
 
 - Playfun / Fun - Colorful and round designs - Creative elements like hand-drawn icons, illustrations, animations, and fun language.
   <br />
   <br />
-  <img src="screenshots/Screenshot 2024-08-30 at 21.54.23.png" height="800px" />
+  <img src="screenshots/Screenshot 2024-08-30 at 21.54.23.png" height="600px" />
 
 ## Typefaces
 
