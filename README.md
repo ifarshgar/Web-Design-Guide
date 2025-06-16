@@ -1,5 +1,6 @@
 # Web-Design-Guide
 
+
 A good designer: 
 -  Creates an immediate and lasting impression of the product.
 - Ensures the user's perceived value of the brand or prodcut.
